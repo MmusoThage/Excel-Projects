@@ -58,6 +58,16 @@ Slicers and Drop-down Filters
 
 Conditional Formatting
 
+## 📌 Potential Improvements
+
+Add dynamic date filtering for custom timeframes
+
+Introduce VBA macros for automated refresh or exports
+
+Migrate to Power BI for interactive web publishing
+
+Integrate real-time call logs for live dashboards
+
 Data Validation & Named Ranges
 
 ![image](https://github.com/user-attachments/assets/763a43b0-546b-4068-bd43-48dc8288f39b)
